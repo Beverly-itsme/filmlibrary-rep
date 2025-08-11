@@ -1,0 +1,17 @@
+C:\Users\huawei\Desktop\filmlibrary\filmlibrary\filmlibrary\bin\Debug\net8.0-windows\filmlibrary.exe
+C:\Users\huawei\Desktop\filmlibrary\filmlibrary\filmlibrary\bin\Debug\net8.0-windows\filmlibrary.deps.json
+C:\Users\huawei\Desktop\filmlibrary\filmlibrary\filmlibrary\bin\Debug\net8.0-windows\filmlibrary.runtimeconfig.json
+C:\Users\huawei\Desktop\filmlibrary\filmlibrary\filmlibrary\bin\Debug\net8.0-windows\filmlibrary.dll
+C:\Users\huawei\Desktop\filmlibrary\filmlibrary\filmlibrary\bin\Debug\net8.0-windows\filmlibrary.pdb
+C:\Users\huawei\Desktop\filmlibrary\filmlibrary\filmlibrary\obj\Debug\net8.0-windows\filmlibrary.Form1.resources
+C:\Users\huawei\Desktop\filmlibrary\filmlibrary\filmlibrary\obj\Debug\net8.0-windows\filmlibrary.csproj.GenerateResource.cache
+C:\Users\huawei\Desktop\filmlibrary\filmlibrary\filmlibrary\obj\Debug\net8.0-windows\filmlibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huawei\Desktop\filmlibrary\filmlibrary\filmlibrary\obj\Debug\net8.0-windows\filmlibrary.AssemblyInfoInputs.cache
+C:\Users\huawei\Desktop\filmlibrary\filmlibrary\filmlibrary\obj\Debug\net8.0-windows\filmlibrary.AssemblyInfo.cs
+C:\Users\huawei\Desktop\filmlibrary\filmlibrary\filmlibrary\obj\Debug\net8.0-windows\filmlibrary.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\filmlibrary\filmlibrary\filmlibrary\obj\Debug\net8.0-windows\filmlibrary.sourcelink.json
+C:\Users\huawei\Desktop\filmlibrary\filmlibrary\filmlibrary\obj\Debug\net8.0-windows\filmlibrary.dll
+C:\Users\huawei\Desktop\filmlibrary\filmlibrary\filmlibrary\obj\Debug\net8.0-windows\refint\filmlibrary.dll
+C:\Users\huawei\Desktop\filmlibrary\filmlibrary\filmlibrary\obj\Debug\net8.0-windows\filmlibrary.pdb
+C:\Users\huawei\Desktop\filmlibrary\filmlibrary\filmlibrary\obj\Debug\net8.0-windows\filmlibrary.genruntimeconfig.cache
+C:\Users\huawei\Desktop\filmlibrary\filmlibrary\filmlibrary\obj\Debug\net8.0-windows\ref\filmlibrary.dll
